@@ -5,3 +5,6 @@ reworks is for how I'm trying to get them into proper coding format, todays stan
 
 They are works in progress and I "DO NOT" take any responsibilities for you using them.
 
+when grabbin something always grab the newest one, you can see by the 'date'.  there will be comments
+in them to/so that i know what i have done with quick changes.
+
